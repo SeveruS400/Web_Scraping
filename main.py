@@ -1,3 +1,6 @@
+# Python Web Scraping on Migros TR
+#
+#   SeveruS 3/15/2021
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
